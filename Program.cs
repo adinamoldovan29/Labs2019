@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Labs2019
 {
@@ -7,6 +7,7 @@ namespace Labs2019
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+			Console.WriteLine("H!");
         }
     }
 }
