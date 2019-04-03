@@ -6,7 +6,7 @@ namespace Labs2019
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Adina!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
